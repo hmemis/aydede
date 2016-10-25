@@ -1,6 +1,7 @@
 @charset "utf-8"
 @import "normalize"
 @import "bootstrap"
+
 #header
   .navbar-default
     margin-top: -50px
@@ -25,10 +26,105 @@
       height: 12px
       background-color: white
 
+#baslangic
+  .container
+    width: 550px
+  hr
+    line-height: 1px
+  .baslik
+    color: white
+    font-weight: bolder
+    text-align: center
+    margin-top: 15px
+    margin-right: 85px
+  .btn
+    width: 500px
+    height: 70px
+    background-color: transparent
+    margin-left: 200px
+    color: white
+    &:focus
+      border: 0.3px dotted white
+      -moz-animation-name: bounce
+      -moz-animation-duration: 4s
+      -moz-animation-direction: alternate
+      -moz-animation-iteration-count: infinite
+      .btn2
+        -moz-animation-name: none
+        -moz-animation-duration: 0s
+  .btn2
+    -moz-animation-name: bounce
+    -moz-animation-duration: 4s
+    -moz-animation-direction: alternate
+    -moz-animation-iteration-count: infinite
+  .resim
+    position: absolute
+    height: 400px
+    width: 400px
+    background-size: cover
+    margin-top: 15px
+    display: block
+    .resim2
+      display: none
+  .resim2
+    position: absolute
+    height: 400px
+    width: 400px
+    background-size: cover
+    margin-top: 15px
+    .resim
+      display: none
 
 
+#kitap
+  .fa-expand
+    margin-left: 52em
+  .zoom
+    -moz-transition-duration: 2.5s
+    -o-transform: scale(0.5)
+    -o-transition-duration: 0.5s
+    -webkit-transform: scale(0.5)
+    -webkit-transition-duration: 2.1s
+    opacity: 1
+    &:active
+      -moz-transform: scale(2.1)
+      -o-transform: scale(2.1)
+      -webkit-transform: scale(2.1)
+      opacity: 0.5
+  img
+    float: left
+    height: 200px
+    width: 300px
+    border: 0.1px solid #dddddd
+    box-shadow: 3px 3px 35px #dddddd
 
+  .carousel-inner
+    width: 600px
+    margin-left: 170px
+    border-top-left-radius:  10px
+    -webkit-border-radius : 10px
+    -moz-border-radius : 10px
 
+  .carousel-control
+    height: 200px
+    margin-top: 60px
+    width: 15px
+    border: 1px solid #dedede
+    -moz-border-radius: 0 0 120px 120px / 0 0 6px 6px
+    border-radius: 0 0 120px 120px / 0 0 6px 6px
+  .carousel-control.right
+    margin-right: 139px
+    border-top-right-radius: 150px
+    border-bottom-right-radius: 150px
+    .fa
+      margin-top: 75px
+  .carousel-control.left
+    border-top-left-radius: 150px
+    border-bottom-left-radius: 150px
+
+    margin-left: 156px
+    .fa
+      margin-top: 75px
 
 
 #hakkimizda
@@ -122,13 +218,108 @@
       height: 400px
       width: 630px
       margin: auto
+  .tooltip-image
+    width: 120px !important
+    height: 120px !important
   h3
     margin-left: 290px
     font-family: Righteous !important
     color: white
-  .tooltip-image
-    width: 120px !important
-    height: 120px !important
+#product
+  .altigen
+    width: 0
+    border-left: 60px solid transparent
+    border-right: 60px solid transparent
+    border-bottom: 35px solid white
+    border-left-style: double
+    border-right-style: double
+
+  .left
+    margin-left: 130px
+
+
+  .altigen2
+    width: 120px
+    height: 70px
+    background-color: white
+    border-left-style: double
+    border-right-style: double
+
+
+  .altigen3
+    width: 0
+    border-left: 60px solid transparent
+    border-right: 60px solid transparent
+    border-top: 35px solid white
+  .container
+    .col-xs-6
+      width: 30%
+      margin-left: 50px
+  .col-xs-3
+    width: 12%
+    margin-left: 57px
+    margin-top: -20px
+  .containerr
+    .left
+      margin-left: 122px
+      margin-top: -20px
+    .right
+      margin-left: 63px
+      margin-top: -20px
 #iletisim
   .yazi
     color: white
+    font-size: 7px
+ 
+  .yazii
+    font-size: 9px
+
+  .col-xs-4
+    margin-top: 50px
+    margin-left: 10px
+    .icon
+      color: white !important
+      float: left
+      margin-left: 25px
+      margin-top: 20px
+      .fa
+        font-size: 20px
+
+
+  .col-sm-3
+    width: 30%
+  .baslik
+    font-weight: bold
+    font-size: 9px
+    color: white
+  .basliksonrasi
+    font-weight: lighter
+    color: white
+    font-size: 7px
+
+  a
+    color: #93d559
+    &:hover
+      color: white
+
+
+.earth-and-moon-sq.earth-and-moon-sq-0
+  background-image: url("../images/earth-and-moon-sq-4-cfccccab234693b29b2d336674dc899a.png")
+  width: 408px
+  height: 382px
+  margin-left:  -50px
+  background-size: cover
+  width: 558px
+  height: 431px
+  margin-left: -95px
+  background-size: cover
+  padding-top: -50px
+  position: absolute
+  margin-top: -72px
+
+
+.top
+  position: absolute
+  top: 70px
+  right: -20px
+  max-width: 50px
