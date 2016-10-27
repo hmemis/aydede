@@ -57,25 +57,51 @@
     -moz-animation-duration: 4s
     -moz-animation-direction: alternate
     -moz-animation-iteration-count: infinite
-  .resim
-    position: absolute
-    height: 400px
-    width: 400px
+  .bulut
+    height: 119px
+    width: 240px
     background-size: cover
-    margin-top: 15px
-    display: block
-    .resim2
-      display: none
-  .resim2
     position: absolute
-    height: 400px
-    width: 400px
+    margin-top: 174px
+    margin-left: 22px
+  .bulut-medium
+    height: 54px
+    width: 193px
     background-size: cover
-    margin-top: 15px
-    .resim
-      display: none
-
-
+    position: absolute
+    margin-top: 240px
+    z-index: 1
+  .bulut-small
+    height: 50px
+    width: 50px
+    background-size: cover
+    z-index: 1
+    position: absolute
+    margin-top: 290px
+  .baslik2
+    font-size: 20px
+    color: #666666
+    text-align: center
+    margin-top: 60px
+    margin-left: -100px,
+    font-weight: lighter
+    line-height: 2px
+  .baslik3
+    font-size: 13px
+    color: grey
+    text-align: center
+    margin-left: -100px
+    font-weight: lighter
+    line-height: 16px
+  .baslik4
+    font-size: 10px
+    color: grey
+    text-align: center
+    margin-left: -100px
+    font-style: italic
+    font-weight: lighter
+    font-family: Monaco, "Andale Mono"
+    line-height: 15px
 #kitap
   .fa-expand
     margin-left: 52em
@@ -140,10 +166,8 @@
     margin:
       top: 5px
       left: -101px
-
   h2
     text-align: center
-
   .altigen
     width: 0
     border-left: 22px solid transparent
@@ -218,26 +242,23 @@
       height: 400px
       width: 630px
       margin: auto
-  .tooltip-image
-    width: 120px !important
-    height: 120px !important
   h3
     margin-left: 290px
     font-family: Righteous !important
     color: white
+  .tooltip-image
+    width: 120px !important
+    height: 120px !important
 #product
   .altigen
     width: 0
     border-left: 60px solid transparent
     border-right: 60px solid transparent
     border-bottom: 35px solid white
-    border-left-style: double
-    border-right-style: double
 
   .left
     margin-left: 130px
-
-
+    margin-top: -7px
   .altigen2
     width: 120px
     height: 70px
@@ -245,6 +266,13 @@
     border-left-style: double
     border-right-style: double
 
+  .product
+    opacity: 1
+    .btn
+      &:focus
+        opacity: 0
+        .product2
+          opacity: 1
 
   .altigen3
     width: 0
@@ -270,7 +298,7 @@
   .yazi
     color: white
     font-size: 7px
- 
+
   .yazii
     font-size: 9px
 

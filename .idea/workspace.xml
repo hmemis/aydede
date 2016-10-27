@@ -1,48 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/source/stylesheets/site.css.sass" line="301" mnemonic="6" />
+    <bookmark url="file://$PROJECT_DIR$/source/stylesheets/site.css.sass" line="329" mnemonic="6" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96965678-73be-4992-8876-8d9822bd6634" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/ball.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/dark-blue-texture-bg-b54590cc6b98ac8faed0b267a8f4aebd.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/earth-92a7ffc515bb9139749cb15c709fc1e1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/earth-and-moon-sq-0-b28d95e73940b92c66ac8e2720a23f19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/earth-and-moon-sq-1-5ccad1f57335d916f75bfd08004b99fd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/earth-and-moon-sq-2-41663f6bdaf2e8c231bd5c36d3060e94.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/earth-and-moon-sq-3-126d3510150f25c0a36a9ca13c8ec296.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/earth-and-moon-sq-4-cfccccab234693b29b2d336674dc899a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/earth-and-moon-sq-5-289a8f0e7bb1f647cd1f5f5b71945254.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/earth-and-moon-sq-6-ce1e4b4d2e77c61695d1be2d10842e33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/earth-and-moon-sq-7-db89357c694085ec460a6f74a5b38726.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/logo-bg-cafcc3370e7445b9bb4553d501de2d8e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/products-bg-f8b86c1de834178c8b0cd52b17b907ee.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/shining-3c6d13a6d16d9f44e8b20e8e1fede650.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/animate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/javascripts/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/javascripts/jquery.parallax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/javascripts/parallax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/javascripts/requestAnimationFrame.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/javascripts/skrollr.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/javascripts/all.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/aydede.iml" afterPath="$PROJECT_DIR$/.idea/aydede.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/index.html.haml" afterPath="$PROJECT_DIR$/source/index.html.haml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/javascripts/app.js" afterPath="$PROJECT_DIR$/source/javascripts/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/layouts/layout.html.haml" afterPath="$PROJECT_DIR$/source/layouts/layout.html.haml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/stylesheets/site.css.sass" afterPath="$PROJECT_DIR$/source/stylesheets/site.css.sass" />
     </list>
@@ -64,11 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html.haml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html.haml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/index.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="52" column="568" selection-start-line="52" selection-start-column="568" selection-end-line="52" selection-end-column="568" />
+            <state relative-caret-position="765">
+              <caret line="351" column="105" selection-start-line="351" selection-start-column="105" selection-end-line="351" selection-end-column="105" />
               <folding />
             </state>
           </provider>
@@ -77,18 +42,28 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/javascripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="45">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.html.haml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="skrollr.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/javascripts/skrollr.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.html.haml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/layouts/layout.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+            <state relative-caret-position="300">
+              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -107,8 +82,8 @@
       <file leaf-file-name="site.css.sass" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/stylesheets/site.css.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="318" column="0" selection-start-line="318" selection-start-column="0" selection-end-line="318" selection-end-column="0" />
+            <state relative-caret-position="765">
+              <caret line="103" column="19" selection-start-line="103" selection-start-column="19" selection-end-line="103" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -126,10 +101,10 @@
         <option value="$PROJECT_DIR$/source/animate.js" />
         <option value="$PROJECT_DIR$/source/javascripts/all.js" />
         <option value="$PROJECT_DIR$/source/javascripts/application.js" />
-        <option value="$PROJECT_DIR$/source/javascripts/app.js" />
-        <option value="$PROJECT_DIR$/source/layouts/layout.html.haml" />
         <option value="$PROJECT_DIR$/source/stylesheets/site.css.sass" />
+        <option value="$PROJECT_DIR$/source/javascripts/app.js" />
         <option value="$PROJECT_DIR$/source/index.html.haml" />
+        <option value="$PROJECT_DIR$/source/layouts/layout.html.haml" />
       </list>
     </option>
   </component>
@@ -192,6 +167,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -238,14 +215,48 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aydede" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aydede" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aydede" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aydede" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -253,8 +264,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/source/images" />
       <recent name="$PROJECT_DIR$/source/javascripts" />
+      <recent name="$PROJECT_DIR$/source/images" />
       <recent name="$PROJECT_DIR$/source/stylesheets" />
     </key>
   </component>
@@ -421,18 +432,20 @@
       <workItem from="1476958857032" duration="16975000" />
       <workItem from="1477312417354" duration="1841000" />
       <workItem from="1477314611802" duration="6961000" />
-      <workItem from="1477380260259" duration="3147000" />
+      <workItem from="1477380260259" duration="7688000" />
+      <workItem from="1477411438843" duration="6393000" />
+      <workItem from="1477562939176" duration="6405000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124501000" />
+    <option name="totallyTimeSpent" value="141840000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="63" y="24" width="1857" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24240752" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24792932" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -488,14 +501,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/index.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="57" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/stylesheets/site.css.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -837,13 +842,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/javascripts/skrollr.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/javascripts/jquery.parallax.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -851,7 +849,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/javascripts/app.js">
+    <entry file="file://$PROJECT_DIR$/source/stylesheets/site.css.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="103" column="19" selection-start-line="103" selection-start-column="19" selection-end-line="103" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/javascripts/bootstrap-carousel.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -859,26 +865,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/layouts/layout.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/stylesheets/site.css.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="318" column="0" selection-start-line="318" selection-start-column="0" selection-end-line="318" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/index.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="52" column="568" selection-start-line="52" selection-start-column="568" selection-end-line="52" selection-end-column="568" />
+        <state relative-caret-position="765">
+          <caret line="351" column="105" selection-start-line="351" selection-start-column="105" selection-end-line="351" selection-end-column="105" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/javascripts/skrollr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/javascripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/layouts/layout.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
           <folding />
         </state>
       </provider>
